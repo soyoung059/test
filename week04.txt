@@ -20,4 +20,3 @@ git push -u origin main
 git remote -v (원격 리포지토리 확인)
 
 git clone "원격리포지토리 주소" . (원격리포지토리를 로컬 클론)
-
