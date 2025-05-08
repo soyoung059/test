@@ -1,0 +1,8 @@
+음수 표현 방식
+
+
+git 명령어
+
+git remote remove origin (로컬리포지토리와 연결된 원격 리포지토리 주소를 삭제)
+
+
