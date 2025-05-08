@@ -1,0 +1,4 @@
+가중치, 비가중치 코드
+변환 연습(ex. 16진수 -> gray code etc...)
+
+try except 파이썬 구문
