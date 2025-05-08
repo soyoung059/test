@@ -1,0 +1,23 @@
+linux 명령어
+
+clear (화면을 한 번 스와이프)
+
+
+
+git 명령어
+
+git add 파일명 (해당 파일을 stage에 올림)
+ex) git add week01.txt
+
+git config --list (현 컴퓨터의 깃 설정 값들 확인)
+
+git commit -m "커밋메시지"
+ex) git commit -m "1, 2주차 수업내용 정리"
+ex) git commit -m "2주차 수업내용 update"
+
+
+현재 사용하는 시스템에서 단 1회 등록만 필요
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git log (깃 커밋 로그 확인 명령)
